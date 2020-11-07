@@ -1,0 +1,10 @@
+C:\Users\drozd\OneDrive\Pulpit\TA4\TA4\bin\Debug\TA4.exe.config
+C:\Users\drozd\OneDrive\Pulpit\TA4\TA4\bin\Debug\TA4.exe
+C:\Users\drozd\OneDrive\Pulpit\TA4\TA4\bin\Debug\TA4.pdb
+C:\Users\drozd\OneDrive\Pulpit\TA4\TA4\obj\Debug\TA4.csprojAssemblyReference.cache
+C:\Users\drozd\OneDrive\Pulpit\TA4\TA4\obj\Debug\TA4.Form1.resources
+C:\Users\drozd\OneDrive\Pulpit\TA4\TA4\obj\Debug\TA4.Properties.Resources.resources
+C:\Users\drozd\OneDrive\Pulpit\TA4\TA4\obj\Debug\TA4.csproj.GenerateResource.cache
+C:\Users\drozd\OneDrive\Pulpit\TA4\TA4\obj\Debug\TA4.csproj.CoreCompileInputs.cache
+C:\Users\drozd\OneDrive\Pulpit\TA4\TA4\obj\Debug\TA4.exe
+C:\Users\drozd\OneDrive\Pulpit\TA4\TA4\obj\Debug\TA4.pdb
